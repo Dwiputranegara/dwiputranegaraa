@@ -1,16 +1,12 @@
 .jumbotron {
-  padding-top: 9rem;
-  background-color: rgb(213, 255, 255);
+  background: url('https://wallpapercave.com/wp/wp4585047.jpg') no-repeat center center;
+  background-size: cover;
+  padding-top: 15%;
+  padding-bottom: 10%;
+  color: #ffffff;
 }
 
-#hobi {
-  background-color: rgb(213, 255, 255);
-}
-
-#kontak {
-  background-color: rgb(213, 255, 255);
-}
-
-section {
-  padding-top: 7rem;
+.offcanvas-title {
+  color: #ffffff;
+  font-weight: bold;
 }

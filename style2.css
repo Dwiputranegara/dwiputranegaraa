@@ -1,6 +1,12 @@
 .jumbotron {
   padding-top: 9rem;
   background-color: rgb(122, 88, 138);
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.display-5 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 #hobi {
@@ -13,4 +19,25 @@
 
 section {
   padding-top: 7rem;
+}
+
+h3 {
+  color: #ffffff;
+  font-weight: bold initial;
+  font-size: 30px;
+}
+
+.mb-3 {
+  color: #ffffff;
+}
+.card-text {
+  color: black;
+}
+
+.asui {
+  color: #ffffff;
+}
+
+h2 {
+  color: black;
 }
